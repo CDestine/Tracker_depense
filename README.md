@@ -11,4 +11,4 @@ Hébergée sur **PythonAnywhere**.
 - Calcul du total, moyenne, budget restant
 - Interface simple (HTML/CSS)
 
-## Structure
+
